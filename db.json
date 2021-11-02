@@ -1,0 +1,16 @@
+{
+    "notes": [
+        {
+            "name": "aprender",
+            "desc": "debo de retomar de nuevo react",
+            "completed": false,
+            "id": 1
+        },
+        {
+            "name": "practicar",
+            "desc": "Practicar mucho react",
+            "completed": false,
+            "id": 2
+        }
+    ]
+}
