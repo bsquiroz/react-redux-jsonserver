@@ -1,16 +1,22 @@
 {
-    "notes": [
-        {
-            "name": "aprender",
-            "desc": "debo de retomar de nuevo react",
-            "completed": false,
-            "id": 1
-        },
-        {
-            "name": "practicar",
-            "desc": "Practicar mucho react",
-            "completed": false,
-            "id": 2
-        }
-    ]
+  "notes": [
+    {
+      "name": "aprender",
+      "desc": "debo de retomar de nuevo react",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "name": "practicar",
+      "desc": "Practicar mucho react",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "name": "cantar",
+      "desc": "debo de cantar todo el dia",
+      "completed": false,
+      "id": 3
+    }
+  ]
 }
